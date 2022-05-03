@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Spacey</h1>
+<h1 align="center">Hello world, I'm Spacey</h1>
 
 - 🌱 I'm currently learning: React, Tailwind
 - 📚 I want to learn: TypeScript, Next.js
