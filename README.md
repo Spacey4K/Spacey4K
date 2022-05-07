@@ -1,4 +1,4 @@
-<h1 align="center">Hello world, I'm Spacey</h1>
+# <h1 align="center">Hello world, I'm Spacey</h1>
 
 - 🌱 I'm currently learning: React, Tailwind
 - 📚 I want to learn: TypeScript, Next.js
@@ -18,4 +18,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
-</p>
+</p>  
+
+<br>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/spaceyy)
