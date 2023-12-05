@@ -2,7 +2,7 @@
 
 - 🌱 I'm currently learning: React, Tailwind
 - 📚 I want to learn: TypeScript, Next.js
-- 📫 Contact me on Discord: [Spacey#4488](https://discord.com/users/290570512675897345)
+- 📫 Contact me on Discord: [speysi](https://discord.com/users/290570512675897345)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
