@@ -1,8 +1,8 @@
 # <h1 align="center">Hello world, I'm Spacey</h1>
 
-- 🌱 I'm currently learning: React, Tailwind
-- 📚 I want to learn: TypeScript, Next.js
-- 📫 Contact me on Discord: [speysi](https://discord.com/users/290570512675897345)
+- 🌱 I'm currently learning: React, Tailwind, TypeScript, Next.js
+- 📚 I want to learn: 💭
+- 📫 Contact me on Discord: `@speysi`
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
