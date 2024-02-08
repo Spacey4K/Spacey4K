@@ -2,7 +2,7 @@
 
 - 🌱 I'm currently learning: React, Tailwind, TypeScript, Next.js
 - 📚 I want to learn: 💭
-- 📫 Contact me on Discord: `@speysi`
+- 📫 Contact me: [contact@spey.si](mailto:contact@spey.si?subject=Hello) or `@speysi` on Discord
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
